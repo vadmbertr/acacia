@@ -1,0 +1,3 @@
+#!/Users/elise/Desktop/Post-doc/Luke/projects/acacia/results/2210_3MB_4multimap/multimap3.8/bin/python3.8
+from numba.pycc import main
+main()
